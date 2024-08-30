@@ -18,45 +18,10 @@ JavaScript's asynchronous behavior is vital for handling long-running operations
 
 Here is a list of the projects included, ranging from beginner-friendly to advanced examples:
 
-1. **Image Gallery**
+1. **Image Gallery** ✅
 
    - Description: Create an image gallery that fetches images from a public API (e.g., Unsplash API) and displays them. Use Promises and async/await to handle the asynchronous image loading.
    - Focus: Loading external resources asynchronously and error handling.
-
-2. **Chaining Promises**
-
-   - Learn how to chain multiple asynchronous operations sequentially using promise chains for better readability.
-
-3. **Promise.all & Promise.race**
-
-   - Examples showing how to run multiple promises concurrently and handle their collective results with `Promise.all()` and `Promise.race()`.
-
-4. **Async/Await Basics**
-
-   - Transition from promise-based code to the more readable async/await syntax, allowing you to write synchronous-like asynchronous code.
-
-5. **Error Handling in Async Operations**
-
-   - Explore different ways to handle errors in promises using `.catch()` and in async functions using try/catch blocks.
-
-6. **Fetching Data with Async/Await**
-
-   - A practical project on making HTTP requests using async/await with real-world APIs to fetch and display data.
-
-7. **Custom Promise Implementation**
-
-   - Build your own simplified version of JavaScript's Promise object to understand its inner workings.
-
-8. **Simulating Delays with Timers**
-
-   - Understand how to work with `setTimeout()` and `setInterval()` for time-delayed executions in asynchronous flows.
-
-9. **Handling Multiple API Calls**
-
-   - Use `Promise.all()` and `Promise.race()` in real-world scenarios to handle multiple API calls at once, and handle their results or errors together.
-
-10. **Concurrency Control**
-    - Manage the execution of multiple asynchronous tasks while controlling concurrency limits to optimize performance.
 
 ---
 
