@@ -18,9 +18,10 @@ JavaScript's asynchronous behavior is vital for handling long-running operations
 
 Here is a list of the projects included, ranging from beginner-friendly to advanced examples:
 
-1. **Basic Promise Example**
+1. **Image Gallery**
 
-   - A fundamental introduction to JavaScript promises, including the use of `resolve`, `reject`, and chaining methods.
+   - Description: Create an image gallery that fetches images from a public API (e.g., Unsplash API) and displays them. Use Promises and async/await to handle the asynchronous image loading.
+   - Focus: Loading external resources asynchronously and error handling.
 
 2. **Chaining Promises**
 
